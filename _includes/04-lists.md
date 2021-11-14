@@ -1,1 +1,12 @@
-Replace this with a list of your favorite things.
+* Marvel Movies
+* Sci-Fi Games and Series
+  * Games
+      * RPG
+      * Alien-tech
+      * FPS
+  * Series
+      * Drama
+      * Romance
+      * Thriller  
+* Family Guy
+* Python Programming
